@@ -1,6 +1,6 @@
-## Patient Management System
-### Introduction
-# This is a Patient Management System that allows doctors to register their patients through a mobile or web portal. It includes backend APIs to achieve tasks like adding a doctor, adding a patient & their symptom, and suggesting the doctor based on the patient's symptom. The system is built using the Spring Boot framework for core functionalities and Hibernate for carrying out database operations.
+# Patient Management System
+## Introduction
+#### This is a Patient Management System that allows doctors to register their patients through a mobile or web portal. It includes backend APIs to achieve tasks like adding a doctor, adding a patient & their symptom, and suggesting the doctor based on the patient's symptom. The system is built using the Spring Boot framework for core functionalities and Hibernate for carrying out database operations.
 
 ## Features
 - Add a doctor to the platform
